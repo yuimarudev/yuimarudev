@@ -1,4 +1,6 @@
 # yuimarudev
+[![wakatime](https://wakatime.com/badge/user/441801cf-3ed8-4734-ac00-2808a1517cb8.svg)](https://wakatime.com/@441801cf-3ed8-4734-ac00-2808a1517cb8) <br />
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yuimaru&layout=compact&theme=dark)](https://wakatime.com/@yuimaru) <br />
 
 ## 鍵
 ```pgp
