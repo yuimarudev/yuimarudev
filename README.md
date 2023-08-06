@@ -1,8 +1,17 @@
 # yuimarudev
-[![wakatime](https://wakatime.com/badge/user/441801cf-3ed8-4734-ac00-2808a1517cb8.svg)](https://wakatime.com/@441801cf-3ed8-4734-ac00-2808a1517cb8) <br />
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yuimaru&layout=compact&theme=dark)](https://wakatime.com/@yuimaru) <br />
+
+<p align="center">
+  <img src="https://yuimaru.uk/counter_github.svg" />
+</p>
+
+
+[![wakatime](https://wakatime.com/badge/user/441801cf-3ed8-4734-ac00-2808a1517cb8.svg)](https://wakatime.com/@441801cf-3ed8-4734-ac00-2808a1517cb8)
+
+
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yuimaru&layout=compact&theme=dark)](https://wakatime.com/@yuimaru)
 
 ## 鍵
+Fingerprint `D4C2 D5A8 24D2 3861 9B45  3D2A 5C09 9587 8A4A EFD8`
 ```pgp
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
