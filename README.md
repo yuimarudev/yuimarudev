@@ -1,7 +1,7 @@
 # yuimarudev
 
 <p align="center">
-  <img src="https://yuimaru.uk/counter_github.svg" />
+  <img src="https://yuimaru.dev/github_counter.svg" />
 </p>
 
 
